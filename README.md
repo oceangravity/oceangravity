@@ -1,4 +1,6 @@
-### Hi there 👋
+##¡Hola! I'm Juan Carlos a.k.a **oceangravity**, a Senior Developer working on interesting projects 
+
+![alt text](https://miro.medium.com/max/1000/1*-BloyfloloL6dRQ69LJbFA.gif)
 
 <!--
 **oceangravity/oceangravity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
