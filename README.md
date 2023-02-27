@@ -1,4 +1,4 @@
-### ¡Hola! I'm Juan Carlos a.k.a *oceangravity*, a Senior Developer working on interesting projects 
+### ¡Hola! I'm Juan Carlos a.k.a *oceangravity*, a Humble Developer working on interesting projects 
 
 ![alt text](https://miro.medium.com/max/1000/1*-BloyfloloL6dRQ69LJbFA.gif)
 
